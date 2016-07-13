@@ -539,7 +539,7 @@
 	
 	{"code":"bloodtitle","text":"Кровь"},
 	{"code":"hypertension","text":"Понижает давление"},
-	{"code":"angina","text":"От ангины"},
+	{"code":"angina","text":"От стенокардии"},
 	{"code":"stroke","text":"Снижения риска инсульта"},
 	{"code":"sicklecell","text":"Против Серповидноклеточной анемии"},
 
@@ -1527,41 +1527,41 @@
 	{"code":"event.demandDecreaseProduct","text":"К сожалению, это может негативно сказаться на прибыли от нашего продукта {0}."},
 	
 	// EVENTS
-	{"code":"event.painkilleraddictionfriction.title","text":"Painkillers ruined my life!"},
-	{"code":"event.painkilleraddictionfriction","text":"A recent news story describes a teenager who has become addicted to over the counter &eff0>painkillers&W>.\n\nIt's likely this will scare some people off from taking pain medication for minor ailments in fear of getting addicted."},
-	{"code":"eventended.painkilleraddictionfriction","text":"It seems people have forgotten about the potential for addiction concerning &eff0>painkillers&W> and are resuming their normal buying patterns."},
+	{"code":"event.painkilleraddictionfriction.title","text":"Обезбаливающие разрушили мою жизнь!"},
+	{"code":"event.painkilleraddictionfriction","text":"Недавний сюжет новостей описывает подростка, который пристрастился к &eff0>обезболивающим&W>.\n\nЭто, скорее всего, отпугнет некоторых людей от приёма обезболивающих при незначительных заболеваниях в страхе получить зависимость."},
+	{"code":"eventended.painkilleraddictionfriction","text":"Кажется, что люди забыли о потенциальном риске зависимости от &eff0>обезбаливающих&W> и возвращаются к привычному уровню их применения."},
 	
-	{"code":"event.migraineTrain.title","text":"All aboard the migraine train"},
-	{"code":"event.migraineTrain","text":"A spate of &eff1>migraines&W> is sweeping the nation. Analysts put the increase down to longer working hours and the stress of modern life."},
+	{"code":"event.migraineTrain.title","text":"Все на борту поезда мигрени"},
+	{"code":"event.migraineTrain","text":"Эпидемия &eff1>мигрени&W> охватила нацию. Аналитики предпологают, что это стало следствием увеличения рабочего времени и стрессов современной жизни."},
 	
-	{"code":"event.yoga.title","text":"Mind, body and soul"},
-	{"code":"event.yoga","text":"An insidious disease has gripped the nation and it's called Yoga.\n\nThe zen-infused population are becoming less reliant on medication to treat their &eff1>migraines&W>, &eff2>anxiety&W> and &eff0>hypertension&W> so expect demand for these treatments to drop."},
+	{"code":"event.yoga.title","text":"Ум, тело и душа"},
+	{"code":"event.yoga","text":"Коварная болезнь охватила нацию, и она называется Йога.\n\nЛюди познавшие Дзен становятся менее зависимыми от лекарств при лечения их &eff1>мигреней&W>, &eff2>тревожности&W> и &eff0>гипертонии&W> поэтому ожидается падение спросана эти препараты."},
 	
-	{"code":"event.lightShow.title","text":"Light show"},
-	{"code":"event.lightShow","text":"The increasing use of disco lasers in nightclubs has resulted in an upsurge in epileptic fits and seizures. This is leading to an increase in demand for &eff2>antiseizure&W> medication."},
-	{"code":"eventended.lightShow","text":"Scared of the negative press, music producers have designed a new tempo of music which avoids the frequencies known to cause epileptic fits.\n\nThe updated light shows don't cause as many seizures so the demand for &eff2>antiseizure&W> medication is likely tail off from here."},
+	{"code":"event.lightShow.title","text":"Световое шоу"},
+	{"code":"event.lightShow","text":"Все более широкое применение диско-лазеров в ночных клубах привело к всплеску эпилептических припадков и судорог. Это привело к повышению спроса на &eff2>противосудорожные&W> препараты."},
+	{"code":"eventended.lightShow","text":"Чтобы избежать негативного давления прессы, музыкальные продюсеры стали применять новый темп музыки, который позволяет избежать эпилептические припадков.\n\nНовые световые шоу не вызывают таких припадков, так что спрос на &eff2>противосудорожные&W> препараты вернулся к прежнему уровню."},
 	
-	{"code":"event.homoeopathicMeditation.title","text":"Homoeopathic Meditation"},
-	{"code":"event.homoeopathicMeditation","text":"More and more people are trusting in the power of homoeopathic meditation to avoid pain during surgery, rather than relying on a traditional &eff3>anesthetic&W>.\n\nThis is causing a drop in demand for &eff3>anesthetic&W> medications."},
-	{"code":"eventended.homoeopathicMeditation","text":"A recent news story described the dramatic consequences of a someone breaking their meditative trance during open heart surgery.\n\nIn response, there has been a startling reuptake of medicative &eff3>anesthetics&W> during surgery."},
+	{"code":"event.homoeopathicMeditation.title","text":"Гомеопатическая Медитация"},
+	{"code":"event.homoeopathicMeditation","text":"Все больше и больше людей доверяют гомеопатической медитации, чтобы избежать боли во время операции, а не полагаются на традиционные &eff3>анестетик&W>.\n\nЭто вызывает падение спроса на &eff3>анестети&W>."},
+	{"code":"eventended.homoeopathicMeditation","text":"Недавний новостной сюжет описал драматические последствия если кто-то взломает их медитативный транс во время операции на открытом сердце.\n\nВ связи с этим, наблюдается поразительно быстрый возврат к применению &eff3>анестетиков&W> во время операций."},
 	
-	{"code":"event.bloodPressure.title","text":"Feeling the pressure"},
-	{"code":"event.bloodPressure","text":"An epidemic of high blood pressure is gripping the world as a result of poor dietary habits, high alcohol consumption and low levels of physical activity.\n\nDoctors are being advised to prescribe medication to combat the epidemic so expect demand for medications treating &eff0>hypertension&W> to surge."},
+	{"code":"event.bloodPressure.title","text":"Почувствовав давление"},
+	{"code":"event.bloodPressure","text":"Эпидемия высокого кровяного давления захватывает мир в результате неправильного питания, высокого уровеня потребления алкоголя и низкого уровня физической активности.\n\nВрачи советуют использовать лекарственные средства для борьбы с эпидемией, так что ожидаем, что спрос на лекарства для лечения &eff0>гипертония&W> возрастёт."},
 	
-	{"code":"event.hypertensionNoCorrelation.title","text":"No correlation"},
-	{"code":"event.hypertensionNoCorrelation","text":"A recent report suggests there is no correlation between relieving &eff0>hypertension&W> and reducing the risk of heart disease and stoke.\n\nFurther studies are clearly needed but in the meantime doctors may be less likely to prescribe &eff0>hypertension&W> medication."},
+	{"code":"event.hypertensionNoCorrelation.title","text":"Нет связи"},
+	{"code":"event.hypertensionNoCorrelation","text":"В недавнем докладе говорится, что нет никакой связи между избавлением от &eff0>гипертонии&W> и снижением риска сердечно-сосудистых заболеваний.\n\nДальнейшие исследования явно необходимо, но тем временем врачи могут быть менее склонны назначать медикаменты от &eff0>гипертония&W>."},
 	
-	{"code":"event.obesityEpidemic.title","text":"Obesity on a huge scale"},
-	{"code":"event.obesityEpidemic","text":"People are getting fatter. This is resulting in an increase in &eff0>hypertension&W> among the population.\n\nIn addition, demand for some kind of &eff2>appetite suppressant&W> is surging."},
+	{"code":"event.obesityEpidemic.title","text":"Ожирение в огромных масштабах"},
+	{"code":"event.obesityEpidemic","text":"Люди становятся все более полными, &eff0>гипертония&W> становится всё более распространённым заболеванием среди населения.\n\nЖелание избавится от лишнего веса порождает спрос на &eff2>подавители аппетита&W>."},
 	
-	{"code":"event.appetiteBurns.title","text":"Lost appetite"},
-	{"code":"event.appetiteBurns","text":"A recent tragedy involving a fatal dose of &eff2>appetite suppressants&W> is currently front-page news.\n\nAs doctors warn of the potential danger associated with these drugs demand is likely fall dramatically."},
+	{"code":"event.appetiteBurns.title","text":"Потеря аппетита"},
+	{"code":"event.appetiteBurns","text":"Недавняя трагедия из-за передозировки средства для &eff2>подавления аппетита&W> на первых страницах газет.\n\nВрачи предупреждают о потенциальной опасности, связанной с этимии препаратами - спрос на них, вероятно, резко упадёт."},
 	
-	{"code":"event.anginaDiagnosis.title","text":"Improving Diagnostics"},
-	{"code":"event.anginaDiagnosis","text":"Improving diagnostic tools are leading to increases in the number of people diagnosed with &eff1>angina&W>.\n\nThis is increasing the demand for medication which treats &eff1>angina&W>."},
+	{"code":"event.anginaDiagnosis.title","text":"Улучшение диагностики"},
+	{"code":"event.anginaDiagnosis","text":"Совершенствование диагностических инструментов ведет к увеличению числа людей с диагнозом &eff1>стенокардия&W>.\n\nЭто увеличит спрос на лекарства &eff1>От стенокардии&W>."},
 	
-	{"code":"event.strokeLifestyleChange.title","text":"Lifestyle Improvement"},
-	{"code":"event.strokeLifestyleChange","text":"Following government campaigns, people are starting to live healthier lifestyles. This has led to a decrease in the number of people requiring &eff2>stroke&W> medication."},
+	{"code":"event.strokeLifestyleChange.title","text":"Улучшение образа жизни"},
+	{"code":"event.strokeLifestyleChange","text":"После правительственных информационных кампаний, люди начали вести более здоровый образ жизни. Это привело к уменьшению числа людей, которым требуется лекарства от &eff2>Инсульта&W>."},
 	
 	{"code":"event.testTubeBabies.title","text":"Test Tube Babies"},
 	{"code":"event.testTubeBabies","text":"Breakthroughs in genetic engineering are allowing scientists to identify and replace the genes responsible for serious genetic disorders such as &eff3>sickle cell anaemia&W>.\n\nOf course the science is still experimental and not everybody will agree with the practice, but over the long term demand for treatments for this type of genetic disorder are likely to fall."},
@@ -1772,24 +1772,24 @@
 	{"code":"event.eatlikeakingdown.title","text":"Eat like a Pauper"},
 	{"code":"event.eatlikeakingdown","text":"Fed up with the decadence of modern society, people are starting to eat more simply, focusing on a traditional diet of vegetables, pulses and unprocessed carbohydrates. As a result cases of &eff0>gout&W> are falling."},
 
-	{"code":"event.alcoholdecrease.title","text":"Alcohol tax decrease"},
-	{"code":"event.alcoholdecrease","text":"Relaxing on alcohol taxation has increased the amount of binge drinking. This has caused an increase in the number of cases of &eff1>liver disease&W>."},
+	{"code":"event.alcoholdecrease.title","text":"Снижение налогов на алкоголь"},
+	{"code":"event.alcoholdecrease","text":"После ослабления налога на алкоголь увеличился уровень алкоголизации населения. Это привело к увеличению числа случаев &eff1>болезни печени&W>."},
 
-	{"code":"event.alcoholincrease.title","text":"Alcohol tax increase"},
-	{"code":"event.alcoholincrease","text":"Higher tax on alcohol has stopped people binge drinking. This has caused a decrease in cases of &eff1>liver disease&W>."},
+	{"code":"event.alcoholincrease.title","text":"Повышение налогов на алкоголь"},
+	{"code":"event.alcoholincrease","text":"Повышение налога на алкоголь остановило рост уровня пьянства. Это привело к уменьшению числа случаев &eff1>болезнь печени&W>."},
 
-	{"code":"event.cheapbooze.title","text":"Cheap booze"},
-	{"code":"event.cheapbooze","text":"As supermarkets sell larger and larger quantities of alcohol at ever cheaper prices the number of stay-at-home-drinkers increases. This is leading to ever more cases of &eff1>liver disease&W> and &eff0>gout&W>."},
+	{"code":"event.cheapbooze.title","text":"Дешевая выпивка"},
+	{"code":"event.cheapbooze","text":"Супермаркеты продают всё больше и больше количества алкоголя по всё более низким ценам - количество выпивающих дома людей увеличивается. Это приводит к еще большему количеству случаев &eff1>болезни печени&W> и &eff0>подагры&W>."},
 
-	{"code":"event.schoolsexed.title","text":"Sex education in schools"},
-	{"code":"event.schoolsexed","text":"A new initiative introducing compulsory sex education for all teenages is predicted to help lower the amount of STIs.\n\nThe demand for genital &eff0>warts&W> treatments is predicted to fall."},
+	{"code":"event.schoolsexed.title","text":"Сексуальное образование в школах"},
+	{"code":"event.schoolsexed","text":"Новая инициатива введения обязательного полового воспитания для всех подростками предсказывается, чтобы помочь уменьшить количество инфекций передающихся половым путём.\n\nСпрос на лекарства для лечения генитальной &eff0>бородавки&W> по прогнозируемо упадёт."},
 
-	{"code":"event.femaleempowerment.title","text":"Female empowerment"},
-	{"code":"event.femaleempowerment","text":"As the gender inequality gap shrinks more women are deciding to put off starting a family until later in life.\n\nBy taking their fertility into their own hands, the demand for &eff1>female contraception&W> is rising."},
+	{"code":"event.femaleempowerment.title","text":"Расширение женских прав и возможностей"},
+	{"code":"event.femaleempowerment","text":"Как следствие сокращения разрыва гендерного неравенства больше женщин принимают решение откложить создание семьи, на более поздний срок.\n\nВ следствии этого спрос на средства &eff1>женской контрацепция&W> растёт."},
 
-	{"code":"event.pantones.title","text":"20 pantones of Silver"},
-	{"code":"event.pantones","text":"A new best-selling novel is getting people all hot under the collar. The saucy story about a sexy businessman and his lurid fantasies has captured the public imagination. Demand for &eff1>female contraception&W>, amongst other things, is up."},
-	{"code":"eventended.pantones","text":"The thrill of Mr Silver has worn off and people are back to spending their evenings sitting on the sofa in front of the TV. Demand for &eff1>female contraception&W> is down."},
+	{"code":"event.pantones.title","text":"20 пантонов серебра"},
+	{"code":"event.pantones","text":"Новый роман-бестселлером разгорячил читателей. Дерзкая история о сексуальном бизнесмене и его зловещих фантазиях захватил воображение публики. Спрос на средства &eff1>женской контрацепции&W> растёт."},
+	{"code":"eventended.pantones","text":"Острые ощущения от '20 пантонов серебра' стерлась из воспоминаний, и люди вновь начали тратить свои вечера, сидя на диване перед телевизором. Спрос на средства &eff1>женской контрацепции&W> падает."},
 
 	{"code":"event.agingpop.title","text":"Aging populations on the rise"},
 	{"code":"event.agingpop","text":"As the average life expectancy rises we are seeing a larger proportion of sexually active OAPs. However, sometimes even when the mind is willing the body isn't.\n\nAs such, growing demand for medication to combat &eff2>erectile dysfunction&W> increases."},
@@ -1838,7 +1838,7 @@
 
 	{"code":"tutorial3-f","text":"&LTBLUE>Бездействующие учёные&W> так же зарабатывают &LTBLUE>Очки Улучшений&W>, но в этом сценарии они так же отключены.\n\n&TITLE>Повышение эффективности&W>\n\nПерейдите на вкладку &LTBLUE>Производство&W>.\n\nПока мы ждём завершения экспедиции и исследовательского проекта, мы можем сделать несколько усовершенствований нашей производственной линии.\n\nВы заметили, что &LTBLUE>Штамповщик таблеток&W> дольше обрабатывает лекарства, чем &LTBLUE>Выпариватель&W>? Да, так и есть! Посмотрите как долго лекарства стоят в очереди на входа в &LTBLUE>Штамповщик таблеток&W>.\n\nМы можем оптимизировать производительность линии, разделив этот участок между двумя &LTBLUE>Штамповщиками таблеток&W>."},
 
-	{"code":"tutorial3-g","text":"Вы можете сделать это путём строительства второго &LTBLUE>Штамповщика таблеток&W> рядом с первым, и используя инструмент &LTBLUE>Конвейер&W> и &LTBLUE>T-образные соеденения&W>.\n\nДобавить &LTBLUE>T-образное соединение&W> можно так:&LIST>\n - Выберите инструмент Конвейер справа.\n - Наведите указатель на существующую конвейерную ленту, которую Вы хотите соеденить.\n - Нажмите, и протяните ленту от существующего конвейера в направлении, в котором Вы хотите разделить конвейер.&W>\n\nПосмотрите как теперь движется производственная линия, распределяя лекарства на два &LTBLUE>Штамповщика таблеток&W> без образования заторов.\n\nВы можете использовать эту технику и с другими машинами, не только со &LTBLUE>Штамповщиком таблеток&W>.\n\nПри открытии ингредиента или завершении исследования, в левой верхней части экрана появится соответствующее уведомление. Поглядывайте туда периодически, чтобы быть в курсе что творится на вашей фабрике.\n\nМы перейдём к следующей части урока как только ингредиент будет открыт и исследование будет завершено. Помните, что Вы можете ускорить время, используя соответствующие элементы управления в нижней левой части экрана.\n\n&TITLE>Использование новых инструментов&W>\n\nПерейдите на вкладку &LTBLUE>Ингредиенты&W>.\n\nВаш новый ингредиент обладает эффектом &eff0>Понижает давление&W>. Для того, чтобы заработать больше денег мы можем улучшить его до лекарства с эффектом &eff1>От ангины&W>.\n\nИмпортируйте новый ингредиент в одно из пустых окон на вашей фабрике и постройте производственную линию, которая его улучшит.\n\nПодсказки:&LIST>\n - Вам нужно будет расширить свою фабрику ещё раз, чтобы было место для новой линии.\n - Наведите указатель на эффект &eff0>Понижает давление&LIST> чтобы посмотреть его реакцию улучшения.\n - Прежде всего, необходимо получить необходимую для улучшения концентрацию ингредиента (0-6).\n - Вы наверное заметили, что на этот раз нам нужно уменьшить концентрацию, а не увеличить её. Вы можете использовать &LTBLUE>Растворитьель&LIST> чтобы сделать это.\n - После того, как Вы достигнете требуемой концентрации улучшения, Вам необходимо улучшить лекарство, используя один из недавно исследованных &LTBLUE>Ионизаторов&LIST>.\n - Помните, что Вы можете нажатием на ваши машины узнать состояние лекарств и при необходимости отрегулировать процесс.\n - После улучшения, Вам необходимо отрегулировать концентрацию еще раз, чтобы активировать эффект &eff1>От ангины&LIST>.\n - Наведите на индикатор концентрации эффекта &eff1>От ангины&LIST> чтобы увидеть &LTBLUE>Область активной концентрации&LIST>.\n - Как только Вы активируете эффект, Вым необходимо использовать &LTBLUE>Штамповщик таблеток&LIST> чтобы сделать из вашего лекарства законченный продукт, готовый к продаже.&W>\n\nКак же это сделать!? Не волнуйтесь, если Вы запутались Вы можете посмотреть и сравнить ваш вариант, и тот, что показан ниже."},
+	{"code":"tutorial3-g","text":"Вы можете сделать это путём строительства второго &LTBLUE>Штамповщика таблеток&W> рядом с первым, и используя инструмент &LTBLUE>Конвейер&W> и &LTBLUE>T-образные соеденения&W>.\n\nДобавить &LTBLUE>T-образное соединение&W> можно так:&LIST>\n - Выберите инструмент Конвейер справа.\n - Наведите указатель на существующую конвейерную ленту, которую Вы хотите соеденить.\n - Нажмите, и протяните ленту от существующего конвейера в направлении, в котором Вы хотите разделить конвейер.&W>\n\nПосмотрите как теперь движется производственная линия, распределяя лекарства на два &LTBLUE>Штамповщика таблеток&W> без образования заторов.\n\nВы можете использовать эту технику и с другими машинами, не только со &LTBLUE>Штамповщиком таблеток&W>.\n\nПри открытии ингредиента или завершении исследования, в левой верхней части экрана появится соответствующее уведомление. Поглядывайте туда периодически, чтобы быть в курсе что творится на вашей фабрике.\n\nМы перейдём к следующей части урока как только ингредиент будет открыт и исследование будет завершено. Помните, что Вы можете ускорить время, используя соответствующие элементы управления в нижней левой части экрана.\n\n&TITLE>Использование новых инструментов&W>\n\nПерейдите на вкладку &LTBLUE>Ингредиенты&W>.\n\nВаш новый ингредиент обладает эффектом &eff0>Понижает давление&W>. Для того, чтобы заработать больше денег мы можем улучшить его до лекарства с эффектом &eff1>От стенокардии&W>.\n\nИмпортируйте новый ингредиент в одно из пустых окон на вашей фабрике и постройте производственную линию, которая его улучшит.\n\nПодсказки:&LIST>\n - Вам нужно будет расширить свою фабрику ещё раз, чтобы было место для новой линии.\n - Наведите указатель на эффект &eff0>Понижает давление&LIST> чтобы посмотреть его реакцию улучшения.\n - Прежде всего, необходимо получить необходимую для улучшения концентрацию ингредиента (0-6).\n - Вы наверное заметили, что на этот раз нам нужно уменьшить концентрацию, а не увеличить её. Вы можете использовать &LTBLUE>Растворитьель&LIST> чтобы сделать это.\n - После того, как Вы достигнете требуемой концентрации улучшения, Вам необходимо улучшить лекарство, используя один из недавно исследованных &LTBLUE>Ионизаторов&LIST>.\n - Помните, что Вы можете нажатием на ваши машины узнать состояние лекарств и при необходимости отрегулировать процесс.\n - После улучшения, Вам необходимо отрегулировать концентрацию еще раз, чтобы активировать эффект &eff1>От стенокардии&LIST>.\n - Наведите на индикатор концентрации эффекта &eff1>От стенокардии&LIST> чтобы увидеть &LTBLUE>Область активной концентрации&LIST>.\n - Как только Вы активируете эффект, Вым необходимо использовать &LTBLUE>Штамповщик таблеток&LIST> чтобы сделать из вашего лекарства законченный продукт, готовый к продаже.&W>\n\nКак же это сделать!? Не волнуйтесь, если Вы запутались Вы можете посмотреть и сравнить ваш вариант, и тот, что показан ниже."},
 
 	{"code":"tutorial3-h","text":"При необходимости Вы можете настроить производственную линию используя этот макет, но убедитесь, что Вы понимаете, как это работает, потому что мы больше не будем останавливаться на этом вопросе!\n\nСценарий будет завершён, когда Вы дадите название и продадите одну единицу своего нового лекарства. Вы можете закончить этот сценарий как только пожелаете."},
 
