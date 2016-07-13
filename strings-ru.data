@@ -1669,7 +1669,7 @@
 	{"code":"event.mentalHealthStigma","text":"A government incentive to reduce the stigma surrounding mental health has led to a marked increase in the diagnosis of &eff0>depression&W>, &eff2>bipolar disorder&W> and &eff3>schizophrenia&W>.\n\nThis has led to a higher demand for the products that treat these conditions."},
 	
 	{"code":"event.heavyMetalAlzheimers.title","text":"Heavy metals and Alzheimer's disease"},
-	{"code":"event.heavyMetalAlzheimers","text":"A long term independent study has identified a correlation between certain plastics containing heavy metals and the onset of &eff4>Alzheimer's disease&W> in later life.\n\nMany counties have banned the use of these plastics in recent years and we are just starting to see the effect of this in the number of cases of the disease."},
+	{"code":"event.heavyMetalAlzheimers","text":"A long term independent study has identified a correlation between certain plastics containing heavy metals and the onset of &eff4>Alzheimer's disease&W> in later life.\n\nMany countries have banned the use of these plastics in recent years and we are just starting to see the effect of this in the number of cases of the disease."},
 	
 	{"code":"event.highPollen.title","text":"High pollen levels"},
 	{"code":"event.highPollen","text":"A warm, dry summer is resulting in extra high pollen levels this year increasing the demand for &eff0>antihistamines&W>."},
