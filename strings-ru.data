@@ -1552,7 +1552,7 @@
 	{"code":"event.hypertensionNoCorrelation","text":"В недавнем докладе говорится, что нет никакой связи между избавлением от &eff0>гипертонии&W> и снижением риска сердечно-сосудистых заболеваний.\n\nДальнейшие исследования явно необходимо, но тем временем врачи могут быть менее склонны назначать медикаменты от &eff0>гипертония&W>."},
 	
 	{"code":"event.obesityEpidemic.title","text":"Ожирение в огромных масштабах"},
-	{"code":"event.obesityEpidemic","text":"Люди становятся все более полными, &eff0>гипертония&W> становится всё более распространённым заболеванием среди населения.\n\nЖелание избавится от лишнего веса порождает спрос на &eff2>подавители аппетита&W>."},
+	{"code":"event.obesityEpidemic","text":"Люди становятся все более полными, &eff0>Гипертония&W> становится всё более распространённым заболеванием среди населения.\n\nЖелание избавится от лишнего веса порождает спрос на &eff2>подавители аппетита&W>."},
 	
 	{"code":"event.appetiteBurns.title","text":"Потеря аппетита"},
 	{"code":"event.appetiteBurns","text":"Недавняя трагедия из-за передозировки средства для &eff2>подавления аппетита&W> на первых страницах газет.\n\nВрачи предупреждают о потенциальной опасности, связанной с этимии препаратами - спрос на них, вероятно, резко упадёт."},
@@ -1563,45 +1563,45 @@
 	{"code":"event.strokeLifestyleChange.title","text":"Улучшение образа жизни"},
 	{"code":"event.strokeLifestyleChange","text":"После правительственных информационных кампаний, люди начали вести более здоровый образ жизни. Это привело к уменьшению числа людей, которым требуется лекарства от &eff2>Инсульта&W>."},
 	
-	{"code":"event.testTubeBabies.title","text":"Test Tube Babies"},
-	{"code":"event.testTubeBabies","text":"Breakthroughs in genetic engineering are allowing scientists to identify and replace the genes responsible for serious genetic disorders such as &eff3>sickle cell anaemia&W>.\n\nOf course the science is still experimental and not everybody will agree with the practice, but over the long term demand for treatments for this type of genetic disorder are likely to fall."},
+	{"code":"event.testTubeBabies.title","text":"Дети из пробирок"},
+	{"code":"event.testTubeBabies","text":"Прорывы в области генной инженерии позволяет ученым выявить и заменить гены, ответственные за серьезные генетические расстройства, такие как &eff3>серповидно-клеточная анемия&W>.\n\nКонечно, эта область науки все еще является экспериментальной и не все согласятся с подобной практикой, но в долгосрочной перспективе спрос на лечение для этого типа генетического расстройства, вероятно, упадет."},
 	
-	{"code":"event.antidepressantsRise.title","text":"Medicate yourself happy"},
-	{"code":"event.antidepressantsRise","text":"The new government are making mental health a priority. The health secretary is promising increased budgets and easy access to medication such as &eff0>antidepressants&W>.\n\nThis will no doubt result in an increased demand for this type of drug."},
+	{"code":"event.antidepressantsRise.title","text":"Медикаменты счастья"},
+	{"code":"event.antidepressantsRise","text":"Новое правительство делает психическое здоровье нации приоритетным направлением. Министр здравоохранения обещает увеличение бюджетов и легкий доступ к лекарственным препаратам, таким как &eff0>антидепрессанты&W>.\n\nЭто, несомненно, приведет к увеличению спроса на этот вид лекарств."},
 	
-	{"code":"event.antidepressantsFall.title","text":"Talking therapies"},
-	{"code":"event.antidepressantsFall","text":"More and more medical professionals are saying that &eff0>antidepressants&W> are just treating the symptoms of depression without treating the cause.\n\nAs such, healthcare providers are using more talking therapies with an unmedicated approach. This is likely to reduce demand."},
+	{"code":"event.antidepressantsFall.title","text":"Разговорная терапия"},
+	{"code":"event.antidepressantsFall","text":"Все больше и больше медицинских специалистов говорят, что &eff0>антидепрессанты&W> просто снимают симптомы депрессии, но не избавляют от причины.\n\nТаким образом, медики всё чаще используют метод разговорных терапий."},
 	
-	{"code":"event.adhdDocumentary.title","text":"ADHD documentary"},
-	{"code":"event.adhdDocumentary","text":"There has been an increase in &eff1>ADHD&W> diagnoses after a recent documentary raised awareness of the conditions.\n\nMedications treating the condition are set to increase in demand."},
+	{"code":"event.adhdDocumentary.title","text":"Документальный фильм о СДВГ"},
+	{"code":"event.adhdDocumentary","text":"В этом фильме много внимания уделено причинам возникновения &eff1>Синдрома дефицита внимания и гиперактивности&W>.\n\nЭто привело к повышенному спросу на лекарства, для борьбы с данными причинами."},
 	
-	{"code":"event.bipoladisorderDocumentary.title","text":"Bipolar Disorder documentary"},
-	{"code":"event.bipoladisorderDocumentary","text":"There has been an increase in &eff2>Bipolar Disorder&W> diagnoses after a recent documentary raised awareness of the condition.\n\nMedications treating the condition are set to increase in demand."},
+	{"code":"event.bipoladisorderDocumentary.title","text":"Документальный фильм о Биполярном Расстройстве"},
+	{"code":"event.bipoladisorderDocumentary","text":"Повысилось количество выставленных диагнозова &eff2>Биполярное Расстройство&W> после недавнего фильма повышения осведомленности о данном заболевании.\n\nСпрос на лекарства от данного заболевания растёт."},
 	
-	{"code":"event.schizophreniaDocumentary.title","text":"Schizophrenia documentary"},
-	{"code":"event.schizophreniaDocumentary","text":"There has been an increase in &eff3>Schizophrenia&W> diagnoses after a recent documentary raised awareness of the condition.\n\nMedications treating the condition are set to increase in demand."},
+	{"code":"event.schizophreniaDocumentary.title","text":"Документальный фильм о Шизофрении"},
+	{"code":"event.schizophreniaDocumentary","text":"Было зафиксировано количество диагнозов &eff3>Шизофрения&W> после недавнего фильма повышения осведомленности о данном заболевании.\n\nСпрос на лекарства от данного заболевания растёт."},
 	
-	{"code":"event.agingPopulation.title","text":"Ageing Population"},
-	{"code":"event.agingPopulation","text":"The developed world has an ageing population. This is resulting in an increase in conditions such as &eff4>Alzheimer's Disease&W> and &eff2>Stroke&W>.\n\nMedications treating these illnesses are set to increase in demand."},
+	{"code":"event.agingPopulation.title","text":"Стареющее население"},
+	{"code":"event.agingPopulation","text":"Развитый мир привел повышению продолжительности жизни и эффекту старения населения. Это приводит к увеличению случаев заболеваний, таких как &eff4>Болезнь Альцгеймера&W> и &eff2>Инсульт&W>.\n\nСпрос на лекарства от данных заболеваний растёт."},
 	
-	{"code":"event.cantsleep.title","text":"Counting sheep doesn't cut it"},
-	{"code":"event.cantsleep","text":"More and more people are being affected by &eff1>Insomnia&W> as a result of the stresses of modern life.\n\nThis is creating increased levels of demand for medications which can treat it."},
+	{"code":"event.cantsleep.title","text":"Подсчет овец не помогает"},
+	{"code":"event.cantsleep","text":"Все больше и больше людей страдают &eff1>Бессонницей&W> в результате стрессов современной жизни.\n\nЭто создает повышенный спрос на лекарства, которые могут помочь заснуть."},
 	
-	{"code":"event.healthySleep.title","text":"Meditate don't medicate"},
-	{"code":"event.healthySleep","text":"Some medical professionals are recommending natural remedies such as exercise and diet changes to &eff1>Insomnia&W> patients, rather than resorting to medication.\n\nAs a result, demand is falling."},
+	{"code":"event.healthySleep.title","text":"Медитация лучше медикаментов"},
+	{"code":"event.healthySleep","text":"Некоторые медицинские специалисты рекомендуют природные средства, такие как упражнения и диеты для борьбы с &eff1>Бессонницей&W> взамен лекарственных средств.\n\nВ результате, спрос падает."},
 	
-	{"code":"event.teenageAnxiety.title","text":"Teenage Angst"},
-	{"code":"event.teenageAnxiety","text":"An epidemic of &eff2>Anxiety&W> amongst teenagers is emerging, resulting in serious psychological conditions such as self-harming and suicidal thoughts. Social commentators suggest that it's the pervasive nature of social media and cyber bullying that's to blame.\n\nRegardless, this is causing a noticeable increase in demand for medications which treat severe &eff2>Anxiety&W>."},
+	{"code":"event.teenageAnxiety.title","text":"Подростковая тоска"},
+	{"code":"event.teenageAnxiety","text":"Эпидемия &eff2>Тревожности&W> распространяется среди подростков, в следствии сложных психологических условий. Это приводит к самонанесению вреда и суицидальным мыслям. Социальные деятели предполагают, что это вина социальных медиа и кибер-издевательств.\n\nНезависимо от этого, ситуация вызывает заметное увеличение спроса на лекарства, которые лечат тяжелую &eff2>тревожность&W>."},
 	
-	{"code":"event.explosiveGrainSilos.title","text":"Explosive grain silos"},
-	{"code":"event.explosiveGrainSilos","text":"Due to unseasonably hot weather, grain silos are exploding on farms across the country.\n\nThis is agitating &eff1>asthma&W> sufferers and causing an increase in &eff0>coughs&W> among the surrounding populace."},
-	{"code":"eventended.explosiveGrainSilos","text":"The dust is starting to subside so people with &eff0>coughs&W> and &eff1>asthma&W> should start recover."},
+	{"code":"event.explosiveGrainSilos.title","text":"Взрывоопасные зернохранилища"},
+	{"code":"event.explosiveGrainSilos","text":"Из-за жаркой погоды, зернохранилища взрываются на фермах по всей стране. \n\nЭто вызывает количество страдающих от &eff1>Астмы&W> и приводит к увеличению случаев тяжелого &eff0>Кашля&W> среди местного населения."},
+	{"code":"eventended.explosiveGrainSilos","text":"Пыль начинает спадать, а вместе с ней и количество людей, страдающих &eff0>Кашлем&W> и &eff1>Астмой&W>."},
 	
-	{"code":"event.pollution.title","text":"Increasing pollution"},
-	{"code":"event.pollution","text":"Increasing levels of inner city pollution and deteriorating air quality is causing more people to suffer from &eff1>asthma&W>.\n\nDemand for &eff1>asthma&W> medication is set to increase."},
+	{"code":"event.pollution.title","text":"Увеличение загрязнения"},
+	{"code":"event.pollution","text":"Повышение уровня загрязнения окружающей среды в городах и ухудшение качества воздуха вызывает у всё большего числа людей &eff1>Астма&W>.\n\nСпрос на лекарства от &eff1>Астмы&W> растёт."},
 	
-	{"code":"event.airFilters.title","text":"Air filtration systems"},
-	{"code":"event.airFilters","text":"A new product has hit the market claiming to help &eff1>asthma&W> sufferers by cleaning the air in people's homes.\n\nWhether or not this technology does what it promises, this is likely to reduce the demand for &eff1>asthma&W> medication over the short term."},
+	{"code":"event.airFilters.title","text":"Системы фильтрации воздуха"},
+	{"code":"event.airFilters","text":"Новый продукт попал на рынок, утверждая, что он способен помочь страдающим &eff1>Астмой&W> путем очистки воздуха в домах.\n\nЕсли обещания правдивы - это может привести к сокращению спроса на лекарства от &eff1>Астмы&W> в ближайшее время."},
 	
 	{"code":"event.tuberculosisOutbreak.title","text":"Tuberculosis outbreak"},
 	{"code":"event.tuberculosisOutbreak","text":"There has been a serious outbreak of &eff1>tuberculosis&W> in Southern Africa and governments around the world are calling for drug companies to provide an effective and affordable treatment.\n\nThe longer this outbreak is left untreated, the more demand for &eff1>tuberculosis&W> medication will rise."},
@@ -1791,10 +1791,10 @@
 	{"code":"event.pantones","text":"Новый роман-бестселлером разгорячил читателей. Дерзкая история о сексуальном бизнесмене и его зловещих фантазиях захватил воображение публики. Спрос на средства &eff1>женской контрацепции&W> растёт."},
 	{"code":"eventended.pantones","text":"Острые ощущения от '20 пантонов серебра' стерлась из воспоминаний, и люди вновь начали тратить свои вечера, сидя на диване перед телевизором. Спрос на средства &eff1>женской контрацепции&W> падает."},
 
-	{"code":"event.agingpop.title","text":"Aging populations on the rise"},
-	{"code":"event.agingpop","text":"As the average life expectancy rises we are seeing a larger proportion of sexually active OAPs. However, sometimes even when the mind is willing the body isn't.\n\nAs such, growing demand for medication to combat &eff2>erectile dysfunction&W> increases."},
+	{"code":"event.agingpop.title","text":"Население стареет"},
+	{"code":"event.agingpop","text":"Средняя продолжительность жизни увеличивается, мы видим большую долю сексуально активных OAPs. However, sometimes even when the mind is willing the body isn't.\n\nAs such, growing demand for medication to combat &eff2>erectile dysfunction&W> increases."},
 
-	{"code":"event.malerise.title","text":"Male contraceptive on the rise"},
+	{"code":"event.malerise.title","text":"Растёт спрос на средства мужской контрацепции"},
 	{"code":"event.malerise","text":"The demand for &eff3>male contraception&W> is growing. More women are starting to worry about the possible side effects of the long term use of hormonal contraception.\n\nMale contraception is a much less invasive procedure and many couples are demanding this approach be more readily available."},
 
 	// TUTORIAL SCRIPT
