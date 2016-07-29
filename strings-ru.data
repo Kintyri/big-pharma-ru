@@ -1603,29 +1603,29 @@
 	{"code":"event.airFilters.title","text":"Системы фильтрации воздуха"},
 	{"code":"event.airFilters","text":"Новый продукт попал на рынок, утверждая, что он способен помочь страдающим &eff1>Астмой&W> путем очистки воздуха в домах.\n\nЕсли обещания правдивы - это может привести к сокращению спроса на лекарства от &eff1>Астмы&W> в ближайшее время."},
 	
-	{"code":"event.tuberculosisOutbreak.title","text":"Tuberculosis outbreak"},
-	{"code":"event.tuberculosisOutbreak","text":"There has been a serious outbreak of &eff1>tuberculosis&W> in Southern Africa and governments around the world are calling for drug companies to provide an effective and affordable treatment.\n\nThe longer this outbreak is left untreated, the more demand for &eff1>tuberculosis&W> medication will rise."},
+	{"code":"event.tuberculosisOutbreak.title","text":"Вспышка Туберкулеза"},
+	{"code":"event.tuberculosisOutbreak","text":"Эпидемия &eff1>Туберкулеза&W> началась в Южной Африке, и правительства по всему миру обратились к фармацевтическим компаниям, чтобы обеспечить людей эффективным и доступным лечением.\n\nЧем больше распространяется эпидемия, тем больше спрос на лекарства от &eff1>Туберкулеза&W>."},
 	
-	{"code":"event.tuberculosisStampDown.title","text":"Tuberculosis stamped out"},
-	{"code":"event.tuberculosisStampDown","text":"Last weekend, a meeting of African nations was held. As a result of the talks, an action plan to \"Stamp out &eff1>tuberculosis&W>\" has been agreed.\n\nThrough better hygiene precautions and international cooperation to stop the spread of the disease, they pledge to wipe out the disease completely over the next 10 years."},
+	{"code":"event.tuberculosisStampDown.title","text":"Победить Туберкулез"},
+	{"code":"event.tuberculosisStampDown","text":"В минувшие выходные состоялась встреча лидеров африканских стран. В результате переговоров, был согласован план действий по \"Уничтожению &eff1>Туберкулеза&W>\".\n\nБлагодаря улучшению мер предосторожности, гигиены и международному сотрудничеству, для остановки распространения болезни, они намереваются уничтожить болезнь полностью в течение ближайших 10 лет."},
 	
-	{"code":"event.volcano.title","text":"Giant volcano eruption"},
-	{"code":"event.volcano","text":"The devastating news of a large volcanic eruption in South America, destroying huge areas of developing urban sprawl, has just broken. Aid organisations are reporting a severe lack of basic medical supplies and are asking for the production of &eff0>painkillers&W> and &eff1>antibiotics&W> to meet demand."},
-	{"code":"eventended.volcano","text":"After an exhausting clean-up operation, many of the casualties have now been treated and life is returning to normal. As such, so is the demand for &eff0>painkillers&W> and &eff1>antibiotics&W>."},
+	{"code":"event.volcano.title","text":"Извержение гиганского вулкана"},
+	{"code":"event.volcano","text":"Разрушительное извержение крупного вулкана в Южной Америке, уничтожило огромные территории городов. Организации по оказанию помощи сообщают о серьезной нехватке основных медикаментов, и просят повысить уровень производства &eff0>Обезболивающих&W> и &eff1>Антибиотиков&W>."},
+	{"code":"eventended.volcano","text":"После утомительной операции по ликвидации последствий извержения, многие из пострадавших вернулись в нормальное русло жизни. Повышенный спрос на &eff0>Обезболивающие&W> и &eff1>Антибиотики&W> спал."},
 
-	{"code":"event.earthquake.title","text":"Devastating earthquake"},
-	{"code":"event.earthquake","text":"The devastating news of a giant earthquake in East Asia, destroying huge areas of developing urban sprawl, has just broken. Aid organisations are reporting a severe lack of basic medical supplies and are asking for the production of &eff0>painkillers&W> and &eff1>antibiotics&W> to meet demand."},
-	{"code":"eventended.earthquake","text":"After an exhausting clean up operation, many of the casualties have now been treated and life is returning to normal. As such, so is the demand for &eff0>painkillers&W> and &eff1>antibiotics&W>."},
+	{"code":"event.earthquake.title","text":"Разрушительное землетрясение"},
+	{"code":"event.earthquake","text":"Разрушительное землетрясение в Восточной Азии уничтожило огромные территории городов. Организации по оказанию помощи сообщают о серьезной нехватке основных медикаментов, и просят повысить уровень производства &eff0>Обезболивающих&W> и &eff1>Антибиотиков&W>."},
+	{"code":"eventended.earthquake","text":"После утомительной операции по ликвидации последствий землетрясения, многие из пострадавших вернулись в нормальное русло жизни. Повышенный спрос на &eff0>Обезболивающие&W> и &eff1>Антибиотики&W> спал."},
 
-	{"code":"event.painkillerscare.title","text":"Painkiller scare"},
-	{"code":"event.painkillerscare","text":"The demand for non-prescription &eff0>painkillers&W> is down after a teenage girl dies from a freak allergic reaction. Even though events like this are incredibly rare, public confidence has been severely knocked."},
-	{"code":"eventended.painkillerscare","text":"Public confidence is returning to non-prescription &eff0>painkillers&W> as the death of a teenage girl from an allergic reaction is slowly forgotten."},
+	{"code":"event.painkillerscare.title","text":"Боязнь обезболивающих"},
+	{"code":"event.painkillerscare","text":"Спрос на &eff0>Обезболивающие&W> без рецепта упал после того, как девочка-подросток умерла от страшной аллергической реакции. Несмотря на черезвычайную редкость подобных событий, общественное доверие было значительно снижено."},
+	{"code":"eventended.painkillerscare","text":"Общественное доверие возвращается к &eff0>Обезболивающим&W> без рецепта так-как несчачтный случай с девочкой-подростком и аллергической реакцией постепенно забывают."},
 
-	{"code":"event.modernlife.title","text":"Modern life"},
-	{"code":"event.modernlife","text":"The stresses of modern life are starting to get to people. Cases of &eff1>migraines&W> are slowly climbing."},
+	{"code":"event.modernlife.title","text":"Современная жизнь"},
+	{"code":"event.modernlife","text":"Стрессы современной жизни, начинают оказывать влияние на людей. Растёт количество жалоб на &eff1>Мигрени&W>."},
 	
-	{"code":"event.lunchbreak.title","text":"Make the most of your lunch break"},
-	{"code":"event.lunchbreak","text":" A new government initiative to get people active and away from their desks at lunchtime seems to be having positive results. People are reporting feeling less stressed and cases of &eff1>migraines&W> are falling."},
+	{"code":"event.lunchbreak.title","text":"Возьмите больше от обеденного перерыва"},
+	{"code":"event.lunchbreak","text":"Новая инициатива правительства, чтобы заставить людей быть активнее и удалятся от своего рабочего места в обеденный перерыв, кажется, дало положительные результаты. Люди сообщают что стали меньше подвержены стрессу, и случаи &eff1>Мигрени&W> пошли на спад."},
 
 	{"code":"event.moneyproblems.title","text":"Money problems"},
 	{"code":"event.moneyproblems","text":"Recent poor financial news has been causing stress and worry in a large proportion of the population. This has been manifesting itself in sleepless nights, which is causing &eff1>migraines&W>, &eff1>insomnia&W> and &eff2>anxiety&W>."},
