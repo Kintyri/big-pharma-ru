@@ -108,7 +108,8 @@
 	{"code":"badpublicity.corporate_slander","text":"Журналисты узнали, что Вы распространяли клевету порочащую конкурентов по данному продукту. Они опубликовали статью, которая повлечёт следующие последствия:"},
 	// CURE Tab
 	{"code":"symptomawarenesscampaign","text":"Компания осведомлённости о симптомах"}, // on graph when symptom awareness campaign is active.
-	
+	{"code":"changeindemandcuregraph","text":"Изменение спроса/день"},
+
 	// PERKS
 	{"code":"perk.recycling_expert","text":"Эксперт переработки"},
 	{"code":"perk.recycling_expert.desc","text":"100% возмещение при продаже оборудования."},
