@@ -77,7 +77,7 @@
 	{"code":"restarting","text":"Перезапуск..."},
 	
 	// MAIN MENU
-	{"code":"mainmenuversion","text":"Версия: {0} (перевод 0.85)"},
+	{"code":"mainmenuversion","text":"Версия: {0} (перевод 0.95)"},
 	{"code":"mainmenunewgame","text":"Новая игра"},
 	{"code":"mainmenuloadgame","text":"Загрузка"},
 	{"code":"mainmenuoptions","text":"Настройки"},
@@ -1076,7 +1076,7 @@
 	// BRAND
 	{"code":"brand_painkiller","text":"{0} облегчена боль"},
 	{"code":"brand_migraine","text":"{0} предотвращена мигрень"},
-	{"code":"brand_antiseizure","text":"{0} избегает припадков"},
+	{"code":"brand_antiseizure","text":"{0} предотвращает припадки"},
 	{"code":"brand_anesthetic","text":"{0} под наркозом"},
 	
 	{"code":"brand_hypertension","text":"{0} кровяное давление понизилось"},
@@ -1627,150 +1627,150 @@
 	{"code":"event.lunchbreak.title","text":"Возьмите больше от обеденного перерыва"},
 	{"code":"event.lunchbreak","text":"Новая инициатива правительства, чтобы заставить людей быть активнее и удалятся от своего рабочего места в обеденный перерыв, кажется, дало положительные результаты. Люди сообщают что стали меньше подвержены стрессу, и случаи &eff1>Мигрени&W> пошли на спад."},
 
-	{"code":"event.moneyproblems.title","text":"Money problems"},
-	{"code":"event.moneyproblems","text":"Recent poor financial news has been causing stress and worry in a large proportion of the population. This has been manifesting itself in sleepless nights, which is causing &eff1>migraines&W>, &eff1>insomnia&W> and &eff2>anxiety&W>."},
-	{"code":"eventended.moneyproblems","text":"The financial market has finally returned back to normal. People can once again sleep easy.\n\nDemand for &eff1>migraines&W>, &eff1>insomnia&W> and &eff2>anxiety&W> medication will revert to normal levels."},
+	{"code":"event.moneyproblems.title","text":"Проблемы с деньгами"},
+	{"code":"event.moneyproblems","text":"Плохие финансовые новости вызвали стресс и беспокойство у значительной части населения. Это вылилось в бессонные ночи, которые вызывают &eff1>мигрень&W>, &eff1>бессонницу&W> и &eff2>тревожность&W>."},
+	{"code":"eventended.moneyproblems","text":"Финансовый рынок наконец-то вернулся в нормальное русло. Люди вновь могут спать спокойно.\n\nСпрос на лекарства от &eff1>мигрени&W>, &eff1>бессонницы&W> и &eff2>тревожности&W> вернулся на прежний уровень."},
 
-	{"code":"event.positivemoney.title","text":"Good financial news"},
-	{"code":"event.positivemoney","text":"Recent positive financial news has been giving large numbers of the population a well earned break from money worries. People are feeling less &eff2>anxious&W> about their income and demand for medication is down."},
-	{"code":"eventended.positivemoney","text":"The good times couldn't last forever and people are starting to feel the pinch again. &eff2>Anxiety&W> medication is on the rise again."},
+	{"code":"event.positivemoney.title","text":"Подъём экономики"},
+	{"code":"event.positivemoney","text":"Хорошие финансовые новости позволили большему числу людей отдохнуть от финансовых забот. Люди меньше &eff2>тревожатся&W> о своих доходах и спроса на лекарства снижается."},
+	{"code":"eventended.positivemoney","text":"Хорошие времена не могли длиться вечно, и люди вновь начинают чувствовать нехватку финансов. Спрос на препараты от &eff2>тревожности&W> начал расти."},
 	
-	{"code":"event.cannabis.title","text":"New Cannabis strains linked to schizophrenia"},
-	{"code":"event.cannabis","text":"A recent independent study has found a strong correlation between the smoking of super strength skunk, a particularly potent form of cannabis, and the rise in cases of anxiety and schizophrenia. The market is becoming more and more saturated with these high potency strains of skunk and experts believe the number of &eff2>anxiety&W> and &eff3>schizophrenia&W> cases is only going to get worse."},
+	{"code":"event.cannabis.title","text":"Новые виды каннабиса вызывают шизофрению"},
+	{"code":"event.cannabis","text":"Недавнее независимое исследование показало сильную корреляцию между курением скунса, особенно сильной формой каннабиса, и ростом числа случаев тревожности и шизофрении. Рынок становится все более и более насыщен этим видом каннабиса, и эксперты полагают, что число случаев &eff2>тревожности&W> и &eff3>шизофрении&W> будет увеличиватся."},
 	
-	{"code":"event.decriminalise.title","text":"Decriminalising of illegal substances"},
-	{"code":"event.decriminalise","text":"A recent relaxing of the Misuse of Substances Act and decriminalising of certain drugs, has seen a fall in the number of cases of &eff1>insomnia&W>, &eff2>anxiety&W>, &eff0>depression&W> and &eff3>schizophrenia&W>. Now that the government is able to control and regulate the sale of certain drugs, the amount of unwanted side effects is falling."},
+	{"code":"event.decriminalise.title","text":"Легализация запрещённых веществ"},
+	{"code":"event.decriminalise","text":"Легализация некоторых запрещённых препаратов привела к снижению числа случаев &eff1>бессонницы&W>, &eff2>тревоги&W>, &eff0>депрессии&W> и &eff3>шизофрении&W>. Теперь, когда правительство имеет возможность контролировать и регулировать продажу этих веществ, количество нежелательных побочных эффектов снижается."},
 	
-	{"code":"event.partyDrug.title","text":"New party drug"},
-	{"code":"event.partyDrug","text":"A worrying new legal high nick-named 'Woof Woof' is being linked to an increase in fits and &eff3>seizures&W>.\n\nThe legal party drug often sold under the pretence of plant food is fast becoming the chemical of choice for this generation of ravers. However, studies have found that if taken in large amounts, Woof Woof can cause fits, seizures and in extreme cases, death."},
-	{"code":"eventended.partyDrug","text":"After new laws have been brought in banning the sale and misuse of Woof Woof, cases of fits and &eff3>seizures&W> have returned to normal levels."},
+	{"code":"event.partyDrug.title","text":"Ноовый наркотик вечеринок"},
+	{"code":"event.partyDrug","text":"Вызывает опасения новое легально вещество "Woof Woof" которое связывают с увеличением количества случаев &eff3>припадков&W>.\n\nПрепарат часто продается под видом растительной пищи, и быстро становится популярным среди любителей вечеринок. Тем не менее, исследования показали, что если принимать его в больших количествах - это может вызвать припадки, судороги и, в крайних случаях, смерть."},
+	{"code":"eventended.partyDrug","text":"После того, как в законы были внесены поправки, запрещающие продажу и употребление "Woof Woof" случаи проявления &eff3>припадков&W> вернулись к прежнему уровню."},
 	
-	{"code":"event.naturalBirth.title","text":"A natural birth"},
-	{"code":"event.naturalBirth","text":"A growing tread to have a drug free, natural water birth among expectant mothers is causing a drop in the demand for &eff3>anesthetics&W>."},
-	{"code":"eventended.naturalBirth","text":"Expectant mothers are coming to realise that the benefits of natural childbirth do not outweigh the pain of labour. The demand for &eff3>anesthetics&W> are rising again as women return to drug-assisted births."},
+	{"code":"event.naturalBirth.title","text":"Естественное рождение"},
+	{"code":"event.naturalBirth","text":"Набирающее популярность движение естественных родов без использования лекарств вызывает падение спроса на &eff3>анестетики&W>."},
+	{"code":"eventended.naturalBirth","text":"Будущие мамы начинают понимать, что выгоды от естественных родов не стоят необходимости выносить такое количество боли. Спрос на &eff3>анестетики&W> снова растет."},
 	
-	{"code":"event.letsGetActive.title","text":"Let's get Active!"},
-	{"code":"event.letsGetActive","text":"A new two year government campaign to get people taking more regular exercise has been showing promising results.  Cases of &eff0>hypertension&W>, &eff1>angina&W> and &eff2>strokes&W> are all down."},
-	{"code":"eventended.letsGetActive","text":"The government's two year campaign to get people taking more exercise has come to an end. As predicted, the number of cases of &eff0>hypertension&W>, &eff1>angina&W> and &eff2>strokes&W> have returned to previous levels."},
+	{"code":"event.letsGetActive.title","text":"Давайте будем активными!"},
+	{"code":"event.letsGetActive","text":"Два года новой кампании правительства, которая призывает людей выполнять более регулярные физические упражнения показали обнадеживающие результаты. Число случаев &eff0>гипертонии&W>, &eff1>стенокардии&W> и &eff2>инсультов&W> снижается."},
+	{"code":"eventended.letsGetActive","text":"Двухлетняя кампания правительства, повышения активности населения, подошла к концу. Как и ожидалось, число случаев &eff0>гипертонии&W>, &eff1>стенокардии&W> и &eff2>инсультов&W> вернулось на прежний уровень."},
 	
-	{"code":"event.sicklecellScreenings.title","text":"Advanced blood screenings"},
-	{"code":"event.sicklecellScreenings","text":"A new compulsory screening program to help identify and track genetic traits has discovered that the number of cases of &eff3>sickle cell aneamia&W> is much wider spread than previously thought.\n\nA large number of people are now being diagnosed with the disease who previously would have gone undetected due to experiencing only mild symptoms. This has led to a higher demand for the products that treat this condition."},
+	{"code":"event.sicklecellScreenings.title","text":"Продвинутый скрининг крови"},
+	{"code":"event.sicklecellScreenings","text":"Новая программа обязательного скрининга крови, призвана помочь идентифицировать и отслеживать генетические признаки предрасположености к заболеваниям, обнаружил, что &eff3>серповидно-клеточная анемия&W> гораздо более  распространена, чем считалось ранее.\n\nБыло выявлено большое количество людей, с этим диагнозом, которые ранее её не замечали из-за слабых симптомов."},
 	
-	{"code":"event.dilutingGenePool.title","text":"Diluting the gene pool"},
-	{"code":"event.dilutingGenePool","text":"The number of cases of &eff3>sickle cell aneamia&W> is falling due to a diluting of the gene pool.\n\nA recessive genetic disorder, caused by the passing on of a matching pair of mutated genes, the condition is more common in people of African, Caribbean, Middle Eastern, and Asian origin. As attitudes towards interracial marriages become more relaxed, the likelihood of both parents having a recessive gene is falling."},
+	{"code":"event.dilutingGenePool.title","text":"Разбавлять генофонда"},
+	{"code":"event.dilutingGenePool","text":"Число случаев &eff3>серповидно-клеточная анемии&W> падает из-за разбавления генофонда.\n\nЭто рецессивное генетическое заболевание, вызванное мутацией пары генов, которые чаще встречаются у жителей Африки, Карибского бассейна, Ближнего Востока и Азиатского региона. Поскольку отношение к межрасовым бракам становится всё более нейтральным, вероятность обоих родителей, иметь рецессивный ген падает."},
 	
-	{"code":"event.adhdSweetener.title","text":"Sweet truth"},
-	{"code":"event.adhdSweetener","text":"A new independent study has discovered a strong link between a popular artificial sweetener and altered brain development in young children.\n\nThe bad press has resulted in a mass boycott of all products containing the additive. As such, the number of new cases of &eff1>ADHD&W> has started to fall drastically."},
+	{"code":"event.adhdSweetener.title","text":"Сладкая правда"},
+	{"code":"event.adhdSweetener","text":"Новое независимое исследование обнаружило сильную связь между популярным искусственным подсластителем и развитием изменений мозга у детей раннего возраста.\n\nРазоблачающая публикация привела к массовому бойкоту всех продуктов, содержащих эту добавку. В результате число новых случаев &eff1>СДВГ&W> резко упало."},
 	
-	{"code":"event.cartoons.title","text":"Saturday morning cartoons"},
-	{"code":"event.cartoons","text":"The sudden surge in new cases of &eff1>ADHD&W> and &eff3>seizures&W> in infants, has been linked to increased media contact time where cartoons, games and other screen based devices have disrupted the forming of neural pathways. Although much is being done to tackle this, irreversible damage has already been caused to many young minds."},
+	{"code":"event.cartoons.title","text":"Мультфильмы субботним утром"},
+	{"code":"event.cartoons","text":"Резкий всплеск новых случаев &eff1>СДВГ&W> и &eff3>припадки&W> у детей раннего возраста, связан с увеличением времени проводимого за просмотром мультфильмов, играми и другими устройствами на основе экранов. Это стало следствием нарушений при формировании нервных путей. Хотя многое делается для решения этого необратимого вреда, он уже был нанесен многим молодым неокрепшим умам."},
 	
-	{"code":"event.mentalHealthStigma.title","text":"Tackling mental health stigma"},
-	{"code":"event.mentalHealthStigma","text":"A government incentive to reduce the stigma surrounding mental health has led to a marked increase in the diagnosis of &eff0>depression&W>, &eff2>bipolar disorder&W> and &eff3>schizophrenia&W>.\n\nThis has led to a higher demand for the products that treat these conditions."},
+	{"code":"event.mentalHealthStigma.title","text":"Решение проблемы психического здоровья"},
+	{"code":"event.mentalHealthStigma","text":"Правительственная программа повышения психического здоровья привела к значительному увеличению случаев диагностирования &eff0>депрессии&W>, &eff2>биполярного расстройства&W> и &eff3>шизофрении&W>.\n\nЭто привело к повышению спроса на лекарства от этих заболеваний."},
 	
-	{"code":"event.heavyMetalAlzheimers.title","text":"Heavy metals and Alzheimer's disease"},
-	{"code":"event.heavyMetalAlzheimers","text":"A long term independent study has identified a correlation between certain plastics containing heavy metals and the onset of &eff4>Alzheimer's disease&W> in later life.\n\nMany countries have banned the use of these plastics in recent years and we are just starting to see the effect of this in the number of cases of the disease."},
+	{"code":"event.heavyMetalAlzheimers.title","text":"Тяжелые металлы и болезнь Альцгеймера"},
+	{"code":"event.heavyMetalAlzheimers","text":"Долгосрочное независимое исследование выявило взаимосвязь между некоторыми пластмассами, содержащими тяжелые металлы и развитием &eff4>Болезнь Альцгеймера&W>.\n\nМногие страны запретили использование этих пластмасс в последние несколько лет, и эффект уже начал проявлятся, снижая уровень этого заболевания."},
 	
-	{"code":"event.highPollen.title","text":"High pollen levels"},
-	{"code":"event.highPollen","text":"A warm, dry summer is resulting in extra high pollen levels this year increasing the demand for &eff0>antihistamines&W>."},
-	{"code":"eventended.highPollen","text":"The unusually warm summer has come to an end. Expect pollen levels in future years to return to normal along with the demand for &eff0>antihistamines&W>."},
+	{"code":"event.highPollen.title","text":"Высокий уровень пыльцы"},
+	{"code":"event.highPollen","text":"Теплое, сухое летое привело высокому уровню пыльцы, что повлекло увеличение спроса на &eff0>антигистаминные препараты&W>."},
+	{"code":"eventended.highPollen","text":"Необычно теплое лето подошло к концу. Ожидается возвращение уровня пыльцы к нормальному уровню,  и понижение спроса на &eff0>антигистаминные препараты&W>."},
 	
-	{"code":"event.lowPollen.title","text":"Low pollen levels"},
-	{"code":"event.lowPollen","text":"A cool, damp summer has resulted in extra low pollen levels this year decreasing the demand for &eff0>antihistamines&W>."},
-	{"code":"eventended.lowPollen","text":"The unusually damp summer has come to an end. Expect pollen levels in future years to return to normal along with the demand for &eff0>antihistamines&W>."},
+	{"code":"event.lowPollen.title","text":"Низкий уровень пыльцы"},
+	{"code":"event.lowPollen","text":"Прохладное, влажное лето привело к крайне низкому содержанию пыльцы в воздухе в этом году, что снизило спрос на &eff0>антигистаминные препараты&W>."},
+	{"code":"eventended.lowPollen","text":"Необычно влажное лето подошло к концу. Ожидается возвращение уровня пыльцы к нормальному уровню, и повышение спроса на &eff0>антигистаминные препараты&W>."},
 	
-	{"code":"event.dustCloud.title","text":"Giant dust cloud"},
-	{"code":"event.dustCloud","text":"The mixture of a long dry season, traffic pollution and a particular prevailing wind has formed a giant dust cloud that is moving slowly over the country.\n\nReports of &eff0>coughing fits&W> and &eff1>asthma&W> attacks have risen sharply."},
-	{"code":"eventended.dustCloud","text":"The dust cloud is starting to clear.\n\nThe number of people suffering from &eff0>coughs&W> and &eff1>asthma&W> attacks has returned to normal."},
+	{"code":"event.dustCloud.title","text":"Гигантскре облако пыли"},
+	{"code":"event.dustCloud","text":"Смесь длительного сухого сезона, загрязнение окружающей среды и дорожное движение сформировали гигантское облако пыли, которое медленно движется по всей стране.\n\nКоличество приступов &eff0>кашля&W> и &eff1>астмы&W> резко возросло."},
+	{"code":"eventended.dustCloud","text":"Облако пыли начинает рассеиваться.\n\nЧисло людей, страдающих от &eff0>кашля&W> и &eff1>астмы&W> вернулось к прежнему уровню."},
 	
-	{"code":"event.falseFearsVaccine.title","text":"False fears surrounding vaccines"},
-	{"code":"event.falseFearsVaccine","text":"The number of cases of &eff3>tuberculosis&W> has been rising steadily. This rise coincides with changes in perception about vaccine safety.\n\nMany parents are refusing to get their child inoculated after a study falsely claimed that certain vaccines were linked to autism."},
-	{"code":"eventended.falseFearsVaccine","text":"Numbers of cases of &eff3>tuberculosis&W> has fallen as public confidence returns to the safety of certain vaccines."},
+	{"code":"event.falseFearsVaccine.title","text":"Ложные страхи по поводу вакцин"},
+	{"code":"event.falseFearsVaccine","text":"Число случаев &eff3>туберкулеза&W> неуклонно растет. Этот рост стал следствием изменения мнения людей о безопасности вакцин.\n\nМногие родители отказываются ставить детям прививку после ложного исследования, в котором утверждали, что некоторые вакцины могут вызвать аутизм."},
+	{"code":"eventended.falseFearsVaccine","text":"Число случаев &eff3>туберкулеза&W> падает, так как общественное доверие к вакцинам возвращается на прежний уровень."},
 	
-	{"code":"event.insects.title","text":"Pesky insects"},
-	{"code":"event.insects","text":"A warm spring is seeing the population of midges not only explode but also move into areas not usually affected. The result is a growing pandemic of itchy skin &eff0>rashes&W>."},
-	{"code":"eventended.insects","text":"As the weather returns to seasonal norms, the recently inflated insect population and number of people suffering from &eff0>rashes&W> has followed suit."},
+	{"code":"event.insects.title","text":"Надоедливые насекомые"},
+	{"code":"event.insects","text":"Теплая весна привела к повышеннной популяции мошек, а таккже к их перемещению в районы, где их обычно не было. Результатом этого стала растущее количество случаев зуда кожи и &eff0>высыпаний&W>."},
+	{"code":"eventended.insects","text":"Погода возвращается к сезонным нормам вместе с популяцией насекомых, и число людей, страдающих от &eff0>высыпаний&W>, идёт на убыль."},
 	
-	{"code":"event.sunsafety.title","text":"Sun safety"},
-	{"code":"event.sunsafety","text":"A campaign to raise awareness of the dangers of spending too much time in the midday sun has been having positive results. The number of sun induced &eff0>rashes&W> and &eff1>migraines&W> has fallen."},
+	{"code":"event.sunsafety.title","text":"Безопасное солнце},
+	{"code":"event.sunsafety","text":"Кампания по повышению осведомленности о вреде долгого пребывания на полуденном солнце дала положительные результаты. Количество случаев &eff0>высыпаний&W> и &eff1>мигрени&W> упало."},
 	
-	{"code":"event.naturalbeauty.title","text":"All natural beauty"},
-	{"code":"event.naturalbeauty","text":"Teen heartthrob Jacob Beaver has announced that he is a strong believer in an 'all natural' beauty regime.  The pop star revealed to the press that he uses only pure bottled water and guava pulp to wash his face. The news has sent demand for &eff1>acne&W> medicine plummeting."},
-	{"code":"eventended.naturalbeauty","text":"People are starting to get fed up with Jacob Beaver and his beauty tips. Demand for &eff1>acne&W> medicine in increasing."},
+	{"code":"event.naturalbeauty.title","text":"Природная красота"},
+	{"code":"event.naturalbeauty","text":"Подросток-сердцеед Якоб Бивер заявил, что он твердо верит в "природную красоту". Поп-звезда показал прессе, что он использует только чистую воду и мякоть гуавы, чтобы умывать лицо. Новость резко снизила спрос на средства от &eff1>акне&W>."},
+	{"code":"eventended.naturalbeauty","text":"Людям начинает надоедать Якоб Бивер и его советы по красоте. Спрос на средства от &eff1>акне&W> начинает расти."},
 		
-	{"code":"event.baldfashion.title","text":"Bald is in fashion"},
-	{"code":"event.baldfashion","text":"With a new spate of balding movie stars and musicians happily revealing their receding hairlines to the world, public attitude to male pattern baldness has become more relaxed.\n\nPeople are much happier with the hair they were given (or more accurately not given) and the demand for &eff2>hair loss&W> products is decreasing."},
+	{"code":"event.baldfashion.title","text":"Лысина в моде"},
+	{"code":"event.baldfashion","text":"С новым потоком лысеющих звезд кино и музыки демонстрирующих свои блестящие головы миру, общественное отношение к облысению стал более спокойным.\n\nЛюди рады тем волосам, которые у них есть (oа точнее нет) и спрос на средства &eff2>от потери волос&W> падает"},
 		
-	{"code":"event.hairtoday.title","text":"Hair today, gone tomorrow"},
-	{"code":"event.hairtoday","text":"The stigma connected to male pattern baldness has grown recently.  With more public figures showing off their full heads of hair, people are worrying more about their own receding hairlines. Demand for &eff2>hair loss&W> products is increasing."},
+	{"code":"event.hairtoday.title","text":"Волосы могут выпасть уже завтра"},
+	{"code":"event.hairtoday","text":"С увеличением количества общественных деятелей, демонстрирующих свои пышные волосы, люди стали больше беспокоятся своих собственных волосах. Спрос на средства &eff2>от потери волос&W> увеличивается."},
 
-	{"code":"event.coldwinter.title","text":"A cold winter"},
-	{"code":"event.coldwinter","text":"A bitterly cold winter has resulted in higher than average numbers of &eff0>cold&W> and &eff0>cough&W> cases."},
-	{"code":"eventended.coldwinter","text":"The bitterly cold winter has come to an end. Expect average numbers of &eff0>cold&W> and &eff0>cough&W> cases to return to normal."},
+	{"code":"event.coldwinter.title","text":"Холодная зима"},
+	{"code":"event.coldwinter","text":"Необычно холодная зима привела к более высокому, чем обычно, числу случаев &eff0>простуды&W> и &eff0>кашля&W>."},
+	{"code":"eventended.coldwinter","text":"Необычно холодная зима подошла к концу. Количество случаев &eff0>простуды&W> и &eff0>кашля&W> вернулись к норме."},
 
-	{"code":"event.notcoldwinter.title","text":"A not so cold winter"},
-	{"code":"event.notcoldwinter","text":"A mild winter has resulted in lower than average numbers of &eff0>cold&W> and &eff0>cough&W> cases."},
-	{"code":"eventended.notcoldwinter","text":"The mild winter has come to an end. Expect average numbers of &eff0>cold&W> and &eff0>cough&W> cases to return to normal."},
+	{"code":"event.notcoldwinter.title","text":"Мягкая зима"},
+	{"code":"event.notcoldwinter","text":"Мягкая зима привела к снижению среднего числа случаев &eff0>простуды&W> и &eff0>кашля&W>."},
+	{"code":"eventended.notcoldwinter","text":"Мягкая зима подошла к концу. Количество случаев &eff0>простуды&W> и &eff0>кашля&W> вернулись к норме."},
 
-	{"code":"event.superbug.title","text":"Super Bug fears"},
-	{"code":"event.superbug","text":"Fears of growing Super Bugs have caused a fall in demand for &eff1>antibiotics&W>.\n\nThe consensus is that the more antibiotics we use, the quicker certain bacteria become immune to them, and become Super Bugs. The attitude is that we should save antibiotics for only the most severe of cases."},
+	{"code":"event.superbug.title","text":"Боязнь супер-бактерии"},
+	{"code":"event.superbug","text":"Растущие опасения по поводу возможности возникновения супер-бактерии вызвали падение спроса на &eff1>антибиотики&W>.\n\nПроблема в том, что чем больше антибиотиков, мы используем, тем быстрее некоторые бактерии приобретают иммунитет к ним, и могут стать супер-бактерией. Мы должны использовать антибиотики только в самых тяжелых случаях."},
 
-	{"code":"event.malariariot.title","text":"Malaria running riot"},
-	{"code":"event.malariariot","text":"A particularly wet monsoon season has caused the population of mosquitos to grow exponentially. The resulting increase in these disease carrying pests is a dramatic rise in cases of &eff2>malaria&W>."},
+	{"code":"event.malariariot.title","text":"Эпидемия малярии"},
+	{"code":"event.malariariot","text":"Особенно сильный сезон дождей привёл к росту популяции москитов в геометрической прогрессии. В результате резко увеличилось количество случаев &eff2>малярии&W>."},
 
-	{"code":"event.badmosquitos.title","text":"A bad year for mosquitos"},
-	{"code":"event.badmosquitos","text":"A particularly dry monsoon season has caused the population of mosquitos to fall dramatically.  The resulting decrease in these disease carrying pests is a fall in cases of &eff2>malaria&W>."},
+	{"code":"event.badmosquitos.title","text":"Неудачный год для москитов"},
+	{"code":"event.badmosquitos","text":"Особенно сухой сезон привёл к резкому падению популяции москитов. В результате резко снизилось количество случаев &eff2>малярии&W>."},
 
-	{"code":"event.sexedu.title","text":"Sex education"},
-	{"code":"event.sexedu","text":"A new charity has been set up to help educate people from developing countries about the advantages of practicing safe sex. This is predicted to reduce the rate of infection of &eff4>HIV&W>."},
+	{"code":"event.sexedu.title","text":"Половое воспитание"},
+	{"code":"event.sexedu","text":"Была запущена новая благотворительная программа, чтобы показать людям из развивающихся стран преимущества безопасного секса. Это, по прогнозам, снизит уровень заражения & eff4>ВИЧ&W>."},
 
-	{"code":"event.nosexedu.title","text":"A lack of sex education"},
-	{"code":"event.nosexedu","text":"A rise in the rate of infection of &eff4>HIV&W> is predicted, after a charity that had helped educate people from developing countries about the advantages of practicing safe sex for mmany years, had to go into liquidation."},
+	{"code":"event.nosexedu.title","text":"Отсутствие полового воспитания"},
+	{"code":"event.nosexedu","text":"Повышение скорости заражения &eff4>ВИЧ&W> Прогнозируется, после того, как благотворительная прпограмма, по обучению людей из развивающихся стран о преимуществах безопасного секса закончилась."},
 
-	{"code":"event.bingeeating.title","text":"Binge Eating"},
-	{"code":"event.bingeeating","text":"The growing culture of eating challenges has seen an increase in the amount of people suffering from &eff0>acid reflux&W>.\n\nWith the premiere of a new TV series entitled 'Person versus Plate' airing this week, it's predicted there will be a sharp rise in demand."},
-	{"code":"eventended.bingeeating","text":"The TV series entitled 'Person versus Plate' came to an end this week. The demand for &eff0>acid reflux&W> medication has returned to normal levels."},
+	{"code":"event.bingeeating.title","text":"Переедание"},
+	{"code":"event.bingeeating","text":"Растущая проблема с перееданием привела к увеличению количества людей страдающих от &eff0>изжоги&W>.\n\nПосле премьеры нового сериала под названием «Человек против Тарелки» привёл к ещё большему увеличению спроса на эти лекарства."},
+	{"code":"eventended.bingeeating","text":"Сериал под названием «Человек против Тарелки» подошел к концу на этой неделе. Спрос на средства от &eff0>изжоги&W> вернулся к прежнему уровню."},
 
-	{"code":"event.streetfood.title","text":"Street Food"},
-	{"code":"event.streetfood","text":"The recent explosion in the number of 'Street Food' vendors has let less hygienic establishments slip through the net. Cases of &eff1>stomach ulcers&W> have increased as more people suffer from food poisoning."},
+	{"code":"event.streetfood.title","text":"Уличная забегаловка"},
+	{"code":"event.streetfood","text":"Резкое увеличение количества уличных забегаловок привело к увеличению случаев &eff1>язвы желудка&W> так как все больше людей страдают от пищевых отравлений."},
 	
-	{"code":"event.streetfooddown.title","text":"Street Food Clampdown"},
-	{"code":"event.streetfooddown","text":"Government inspectors have cracked down on unlicensed 'Street Food' vendors and the number of cases of &eff1>stomach ulcers&W> are falling."},
+	{"code":"event.streetfooddown.title","text":"Борьба с уличными забегаловками"},
+	{"code":"event.streetfooddown","text":"Государственные инспекторы борятся с нелицензированным уличными забегаловками, количество случаев &eff1>язвы желудка&W> уменьшается."},
 
-	{"code":"event.fasting.title","text":"Live, fast and die old"},
-	{"code":"event.fasting","text":"A new fad diet has seen positive results on people's waistlines. The diet, which involves fasting for a number of days each week, has caused cases of &eff0>diabetes&W> and &eff0>hypertension&W> to fall. However, the demand for &eff2>appetite suppressants&W> is up."},
-	{"code":"eventended.fasting","text":"However positive the health benefits, people are realising that starving yourself for a couple of days is just no fun and lose interest in the current diet fad. Cases of &eff0>diabetes&W> and &eff0>hypertension&W> are up."},
+	{"code":"event.fasting.title","text":"Волшебная диета"},
+	{"code":"event.fasting","text":"Новая диета делат чудеса с талией людей. Она включает в себя пост в течение нескольких дней в неделю, что привело к снижению случаев &eff0>диабета&W> и &eff0>гипертонии&W>. Однако, спрос на средства &eff2>для подавления аппетита&W> растёт"},
+	{"code":"eventended.fasting","text":"Не смотря на положительную пользу для здоровья, люди понимают, что голодать в течение нескольких дней не просто, и теряют интерес к этой диете. Количество случаев &eff0>диабета&W> и &eff0>гипертония&W> начинают расти."},
 
-	{"code":"event.cleanfreak.title","text":"Clean freak"},
-	{"code":"event.cleanfreak","text":"The hygiene hypothesis, which suggests that children who grow up in increasingly germ-free environments are more likely to develop &eff3>inflammatory bowel disease&W>, is gathering more evidence.\n\nCases of the disease are growing, which seems to correlate with the increasing tread to disinfect everything."},
-	{"code":"event.cleanfreakdown.title","text":"Stay off the curry"},
-	{"code":"event.cleanfreakdown","text":"More people are finding that they are able to manage their &eff3>inflammatory bowel disease&W> by changing their diet and staying away from goods which are likely to irritate the bowels.\n\nAs a result cases of the disease are falling."},
+	{"code":"event.cleanfreak.title","text":"Помешанные на чистоте"},
+	{"code":"event.cleanfreak","text":"Гигиеническая гипотеза, которая предполагает, что дети, которые растут во все более стирильных условиях, более склонны к развитию &eff3>воспаления кишечника&W> набирает больше доказательств.\n\nСлучаи этого заболевания растут, что, кажется, коррелирует с увеличением количества любителей дезинфекции всего."},
+	{"code":"event.cleanfreakdown.title","text":"Расставайтесь с карри"},
+	{"code":"event.cleanfreakdown","text":"Все больше людей понимают, что они могут избежать &eff3>воспаления кишечника&W>, изменив свой рацион питания и держась подальше от блюд которые, вероятно, будут раздражать кишечник.\n\nВ итоге количество случаев этого заболевания падает."},
 
-	{"code":"event.coldchain.title","text":"The cold-chain hypothesis"},
-	{"code":"event.coldchain","text":"The cold-chain hypothesis, which suggests that the increase in &eff3>inflammatory bowel disease&W> cases since World War II might be linked to the increased use of refrigerators, is being thrown into disrepute as the number of cases of the disease falls."},
-	{"code":"eventended.coldchain","text":"There is potentially still credence to the cold-chain hypothesis as the number of &eff3>inflammatory bowel disease&W> cases starts to rise again."},
+	{"code":"event.coldchain.title","text":"Холодильная гипотеза"},
+	{"code":"event.coldchain","text":"Холодильная гипотеза, которая предполагает, что увеличение количества случаев &eff3>воспаления  кишечника&W> со времен Второй мировой войны может быть связано с увеличением количества людей, использующих холодильники, ставится под сомнение, т.к. количество случаев заболевания падает."},
+	{"code":"eventended.coldchain","text":"Холодильная гипотеза вновь становится правдоподобной т.к. количество случаев &eff3>воспаления  кишечника&W> снова начало расти."},
 
-	{"code":"event.fiveormore.title","text":"Five or more a day"},
-	{"code":"event.fiveormore","text":"A new two year government campaign to get people eating more healthily has got off to a flying start.  Cases of type 2 &eff0>diabetes&W> has fallen, while demand for &eff2>appetite suppressants&W> is also down."},
-	{"code":"eventended.fiveormore","text":"The government scheme to get people eating more healthily has come to an end. Cases for &eff0>type 2 diabetes&W> and &eff2>appetite suppressants&W> start to rise again."},
+	{"code":"event.fiveormore.title","text":"Пять раз в день"},
+	{"code":"event.fiveormore","text":"Стартовала двухгодичная правительственная программа продвижения здорового питания. Количество случаев &eff0>диабета 2-го типа&W> упало, как и спрос на средства &eff2>подавления аппетита&W>."},
+	{"code":"eventended.fiveormore","text":"Правительственная программа продвижения здорового питания пришла к концу. Случаи &eff0>диабета 2-го типа&W> и спрос на средства &eff2>подавления аппетита&W> начали расти."},
 
-	{"code":"event.iodine.title","text":"There's something in the water"},
-	{"code":"event.iodine","text":"A popular brand of bottled water, boasting to contain many beneficial vitamins and minerals, has been found to contain excessive amounts of iodine.\n\nThe product has been removed from shelves while an investigation is carried out. As such, we have seen a decrease in the demand for iodine-induced &eff1>hyperthyroidism&W> medication."},
+	{"code":"event.iodine.title","text":"Там что-то в воде"},
+	{"code":"event.iodine","text":"В популярном бренде бутилированной воды, с содержанием полезных витаминов и минералов, было выявлено  чрезмерное содержание йода.\n\nПродукт был убран с полок магазинов на время проведения исследования. Таким образом, мы наблюдаем снижение спроса на иодированные препараты от &eff1>гипертиреоз&W>."},
 
-	{"code":"event.tabaccotaxdecrease.title","text":"Tabacco tax decrease"},
-	{"code":"event.tabaccotaxdecrease","text":"Relaxed tobacco taxation laws have caused the number of smokers to increase. Cases of people with &eff0>coughs&W>, &eff2>bronchitis&W> and lung &eff2>cancer&W> are all rising."},
+	{"code":"event.tabaccotaxdecrease.title","text":"Снижение налога на табак"},
+	{"code":"event.tabaccotaxdecrease","text":"Облегчение налогообложения на табачные изделия вызвало увеличение числа курильщиков. Количество случаев &eff0>кашля&W>, &eff2>бронхита&W> и &eff2>рака&W> лёгких увеличивается."},
 
-	{"code":"event.tabaccotaxincrease.title","text":"Tabacco tax increase"},
-	{"code":"event.tabaccotaxincrease","text":"Tightened tobacco taxation laws have caused a decrease in the number of smokers. Cases of people with &eff0>coughs&W>, &eff2>bronchitis&W> and lung &eff2>cancer&W> are falling."},
+	{"code":"event.tabaccotaxincrease.title","text":"Увеличение налога на табак"},
+	{"code":"event.tabaccotaxincrease","text":"Ужесточение налогообложения на табачные изделия привело к снижению числа курильщиков. Количество случаев &eff0>кашля&W>, &eff2>бронхита&W> и &eff2>рака&W> лёгких падает."},
 
-	{"code":"event.smokingawareness.title","text":"Smoking awareness"},
-	{"code":"event.smokingawareness","text":"A new government campaign promoting awareness about the dangers of smoking is having moderate success. Cases of both &eff2>bronchitis&W> and lung &eff2>cancer&W> are falling."},
+	{"code":"event.smokingawareness.title","text":"Осведомление о вреде курения"},
+	{"code":"event.smokingawareness","text":"Новая государственная программа повышения осведомленности о вреде курения показывает хорошие результаты. Количество случаев &eff2>бронхита&W> и &eff2>рака&W> лёгких уменьшается."},
 
-	{"code":"event.eatlikeaking.title","text":"Eat like a King"},
-	{"code":"event.eatlikeaking","text":"A new gourmet eating fad is increasing the demand for &eff0>gout&W> medication. As people's taste for duck liver pate, stuffed pheasant and mackerel with horseradish increases, so do the cases of this painful ailment."},
+	{"code":"event.eatlikeaking.title","text":"Ешьте как король"},
+	{"code":"event.eatlikeaking","text":"Современные гурманские пристрастия привели к увеличению спроса на лекарства от &eff0>подагры&W>. Любовь людей к паштету из утиной печени, фаршированного фазана и скумбрии с хреном увеличивается вместе с количеством случаев этой болезни."},
 	
-	{"code":"event.eatlikeakingdown.title","text":"Eat like a Pauper"},
-	{"code":"event.eatlikeakingdown","text":"Fed up with the decadence of modern society, people are starting to eat more simply, focusing on a traditional diet of vegetables, pulses and unprocessed carbohydrates. As a result cases of &eff0>gout&W> are falling."},
+	{"code":"event.eatlikeakingdown.title","text":"Ешьте как нищий"},
+	{"code":"event.eatlikeakingdown","text":"Люди современного насытившегося общества начинают есть более простую пищу, сосредоточив внимание на традиционной диете из овощей, бобовых и необработанных углеводов. В результате число случаев &eff0>подагра&W> падает."},
 
 	{"code":"event.alcoholdecrease.title","text":"Снижение налогов на алкоголь"},
 	{"code":"event.alcoholdecrease","text":"После ослабления налога на алкоголь увеличился уровень алкоголизации населения. Это привело к увеличению числа случаев &eff1>болезни печени&W>."},
@@ -1778,7 +1778,7 @@
 	{"code":"event.alcoholincrease.title","text":"Повышение налогов на алкоголь"},
 	{"code":"event.alcoholincrease","text":"Повышение налога на алкоголь остановило рост уровня пьянства. Это привело к уменьшению числа случаев &eff1>болезнь печени&W>."},
 
-	{"code":"event.cheapbooze.title","text":"Дешевая выпивка"},
+	{"code":"event.cheapbooze.title","text":"Дешёвая выпивка"},
 	{"code":"event.cheapbooze","text":"Супермаркеты продают всё больше и больше количества алкоголя по всё более низким ценам - количество выпивающих дома людей увеличивается. Это приводит к еще большему количеству случаев &eff1>болезни печени&W> и &eff0>подагры&W>."},
 
 	{"code":"event.schoolsexed.title","text":"Сексуальное образование в школах"},
@@ -1792,10 +1792,10 @@
 	{"code":"eventended.pantones","text":"Острые ощущения от '20 пантонов серебра' стерлась из воспоминаний, и люди вновь начали тратить свои вечера, сидя на диване перед телевизором. Спрос на средства &eff1>женской контрацепции&W> падает."},
 
 	{"code":"event.agingpop.title","text":"Население стареет"},
-	{"code":"event.agingpop","text":"Средняя продолжительность жизни увеличивается, мы видим большую долю сексуально активных OAPs. However, sometimes even when the mind is willing the body isn't.\n\nAs such, growing demand for medication to combat &eff2>erectile dysfunction&W> increases."},
+	{"code":"event.agingpop","text":"Средняя продолжительность жизни увеличивается, и мы наблюдаем увеличение количества сексуально активных пенсионеров. Тем не менее, иногда даже когда ум готов тело - нет.\n\nЭто привело к расту спрос ана лекарства от &eff2>эректильной дисфункции&W>."},
 
 	{"code":"event.malerise.title","text":"Растёт спрос на средства мужской контрацепции"},
-	{"code":"event.malerise","text":"The demand for &eff3>male contraception&W> is growing. More women are starting to worry about the possible side effects of the long term use of hormonal contraception.\n\nMale contraception is a much less invasive procedure and many couples are demanding this approach be more readily available."},
+	{"code":"event.malerise","text":"Спрос на средства &eff3>мужской контрацепции&W> растёт. Все больше женщин начинают беспокоиться о возможных побочных эффектах длительного использования гормональных средств контрацепции.\n\nМужские средства контрацепции гораздо менее инвазивны, и многие пары находят такой подход более подхлдящим."},
 
 	// TUTORIAL SCRIPT
 	{"code":"tutorialcaps","text":"ОБУЧЕНИЕ"},
