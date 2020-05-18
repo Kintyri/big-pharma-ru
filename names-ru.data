@@ -2,7 +2,7 @@
 	"order":["firstPart","type","secondPart"],
 	"includeSpaces":true,
 	"firstPart":[
-		"Не очищенный",
+		"Неочищенный",
 		"Очищенный",
 		"Сырой",
 		"Активированный",
