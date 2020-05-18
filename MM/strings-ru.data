@@ -76,6 +76,9 @@
 	// INGREDIENTS TAB
 	{"code":"boosterpreview","text":"&LTBLUE>Предварительные отчёты показывают, что мы можем найти ингредиент с &eff5>Буст&LTBLUE>-эффектом."},
 	{"code":"boosterpreviewcat","text":"&LTBLUE>Предварительные отчёты показывают, что мы можем найти ингредиент с &eff5>Буст&LTBLUE>-эффектом.\n\nТакже существует вероятность обнаружить следующие &W>катализаторы&LTBLUE>:"},
+	{"code":"cureinfoingredientsupplieddescMM","text":"Закупки - Количество этого ингредиента, приобретаемого каждый день, в среднем за последний месяц."},
+	{"code":"totalpurchasedMM","text":"Общие суточные закупки"},
+	{"code":"importingcaps","text":"ИМПОРТ"},
 	// PRODUCTION TAB
 	{"code":"stockgate1","text":"Выберите продукт:"},
 	{"code":"stockgate2","text":"Линия будет запущена, если продукта на складе будет:"},
