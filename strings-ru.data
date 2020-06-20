@@ -77,7 +77,7 @@
 	{"code":"restarting","text":"Перезапуск..."},
 	
 	// MAIN MENU
-	{"code":"mainmenuversion","text":"Версия: {0} (перевод 0.98)"},
+	{"code":"mainmenuversion","text":"Версия: {0} (перевод 0.99m5)"},
 	{"code":"mainmenunewgame","text":"Новая игра"},
 	{"code":"mainmenuloadgame","text":"Загрузка"},
 	{"code":"mainmenuoptions","text":"Настройки"},
@@ -529,7 +529,7 @@
 	
 	// Effects
 	// Cures
-	{"code":"noeffect","text":"Нет эффекта(ов)"},
+	{"code":"noeffect","text":"Нет эффектов"},
 	
 	{"code":"paintitle","text":"Боль"},
 	{"code":"painkiller","text":"Обезболевающее"},
@@ -689,7 +689,7 @@
 	// LOAN DIALOG
 	{"code":"take","text":"ВЗЯТЬ"},
 	{"code":"repay","text":"ПОГАСИТЬ"},
-	{"code":"loaninfoleft","text":"Количесвто:\nПроцентная ставка:\nСрок:\nЕжедневный платеж:"},
+	{"code":"loaninfoleft","text":"Количество:\nПроцентная ставка:\nСрок:\nЕжедневный платеж:"},
 	{"code":"loaninfolefttaken","text":"Баланс:\nПроцентная ставка:\nОставшийся срок:\nЕжедневный платеж:"},
 	
 	// PATENT DIALOG
@@ -824,6 +824,7 @@
 	{"code":"chooseconc","text":"Выбор"},
 	{"code":"centrifugeswapperlabel","text":"Выберите эффекты для замены:"},
 	{"code":"choosenumberofshifts","text":"Выберите количество сдвигаемых позиций:"},
+	{"code":"choosenumberofpacks","text":"Выберите количество в упаковке:"},
 	
 	// MACHINE STATUS
 	{"code":"status.IDLE","text":"Бездействует"},
@@ -906,6 +907,7 @@
 	{"code":"ingredientcat","text":"&LTBLUE>Первоначальные доклады показывают, этот ингредиент не имеет лечебных эффектов.\n\nОднако, следующие &W>катализаторы&LTBLUE> существуют:"},
 	{"code":"unresearchedlocation","text":"&LTBLUE>Исследуйте &W>\"{0}\"&LTBLUE> чтобы сделать доступной эту местность"},
 	{"code":"import","text":"ИМПОРТ"},
+	{"code":"slashmonth","text":"/мес."},
 	{"code":"costcaps","text":"СТОИМОСТЬ"},
 	{"code":"discountcaps","text":"СКИДКА"},
 	{"code":"upgradecaps","text":"УЛУЧШИТЬ"},
@@ -1094,7 +1096,7 @@
 	{"code":"brand_insomnia","text":"{0} хороший ночной сон"},
 	{"code":"brand_anxiety","text":"{0} снижена тревожность"},
 	
-	{"code":"brand_cough","text":"{0} кашль уменьшен"},
+	{"code":"brand_cough","text":"{0} кашель уменьшен"},
 	{"code":"brand_asthma","text":"{0} остановлены приступы астмы"},
 	{"code":"brand_bronchitis","text":"{0} бронхиальные инфекции вылечены"},
 	{"code":"brand_tuberculosis","text":"{0} больные туберкулезом вылечены"},
